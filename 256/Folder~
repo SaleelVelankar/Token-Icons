@@ -1,0 +1,18 @@
+#!/bin/bash
+mkdir places
+mv Favorites_2_256x256x32.png /home/islington/Projects/Token/Token-Icons/256/places/folder-favorites.png
+mv Settings_2_256x256x32.png /home/islington/Projects/Token/Token-Icons/256/places/folder-development.png
+mv Documents_2_256x256x32.png /home/islington/Projects/Token/Token-Icons/256/places/folder-documents.png
+mv Downloads_2_256x256x32.png /home/islington/Projects/Token/Token-Icons/256/places/folder-downloads.png
+mv Pictures-Alt_2_256x256x32.png /home/islington/Projects/Token/Token-Icons/256/places/folder-image.png
+mv Applications_2_256x256x32.png /home/islington/Projects/Token/Token-Icons/256/places/folder-html.png
+mv Folder_2_256x256x32.png /home/islington/Projects/Token/Token-Icons/256/places/folder.png
+mv Music_2_256x256x32.png /home/islington/Projects/Token/Token-Icons/256/places/folder-sound.png
+mv Videos_2_256x256x32.png /home/islington/Projects/Token/Token-Icons/256/places/folder-video.png
+mv Network_2_256x256x32.png /home/islington/Projects/Token/Token-Icons/256/places/network-server.png
+mv Networked-Drive_2_256x256x32.png /home/islington/Projects/Token/Token-Icons/256/places/network-workgroup.png
+mv Oh_2_256x256x32.png /home/islington/Projects/Token/Token-Icons/256/places/start-here.png
+mv Pictures_2_256x256x32.png /home/islington/Projects/Token/Token-Icons/256/places/user-desktop.png
+mv Home_2_256x256x32.png /home/islington/Projects/Token/Token-Icons/256/places/user-home.png
+mv Contact_2_256x256x32.png /home/islington/Projects/Token/Token-Icons/256/places/user-identity.png
+mv Recycle-Empty_2_256x256x32.png /home/islington/Projects/Token/Token-Icons/256/places/user-trash.png
